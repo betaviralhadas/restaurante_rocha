@@ -2,16 +2,16 @@ import styles from "./page.module.scss";
 import Layout from './layout'
 import Link from "next/link"
 import Image from "next/image"
-import About from "../components/About"
-import Header from "../components/Header"
-import Slider from "../components/HomeSlider"
-import Footer from "../components/Footer"
-import Menu from "../public/img/logo2.png"
-import Gallery from "../public/img/logo2.png"
+import About from "./components/About"
+import Header from "./components/Header"
+import Slider from "./components/HomeSlider"
+import Footer from "./components/Footer"
+import Menu from ".../public/img/logo2.png"
+import Gallery from ".../public/img/logo2.png"
 
 export default function Home() {
   return (
-    <Layout>
+    <Layout className={styles.page}>
       <Header />
       <main className="page">
         <Slider />
