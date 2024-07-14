@@ -6,8 +6,8 @@ import About from "./components/About"
 import Header from "./components/Header"
 import Slider from "./components/HomeSlider"
 import Footer from "./components/Footer"
-import Menu from ".../public/img/logo2.png"
-import Gallery from ".../public/img/logo2.png"
+import Menu from "../public/img/logo2.png"
+import Gallery from "../public/img/logo2.png"
 
 export default function Home() {
   return (

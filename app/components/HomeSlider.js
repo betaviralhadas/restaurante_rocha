@@ -1,4 +1,6 @@
-import data from '.../public/Slider.json'
+"use client"; 
+
+import data from '../../public/Slider.json'
 import { useState, useEffect, useRef } from 'react';
 import styles from './homeSlider.module.scss'
 

@@ -1,5 +1,5 @@
-import Image from "next/image";
-import dishes from ".../public/DishMenu.json";
+import Image from "next/image"
+import dishes from "../../public/DishMenu.json"
 import styles from './dishMenu.module.scss'
 
 export default function DishMenu() {

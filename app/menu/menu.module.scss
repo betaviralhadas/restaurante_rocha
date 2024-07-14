@@ -1,0 +1,17 @@
+.page {
+    position: relative;
+    top: 105px;
+    margin-bottom: 166px;
+
+    .menu_title {
+        display: flex;
+        justify-content: center;
+        margin-top: 1.5em;
+    }
+    
+    .content_menu {
+        display: flex;
+        flex-direction: column;
+        margin-left: 21em;
+    }
+}

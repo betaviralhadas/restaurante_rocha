@@ -1,8 +1,8 @@
-import Image from "next/image";
-import AboutImg from '.../public/img/logo.jpg'
+import Image from "next/image"
+import AboutImg from '../../public/img/logo.jpg'
 import styles from './about.module.scss'
 
-const About = () => {
+export default function About () {
     return (
         <div className={styles.about}>
             <section className="about">
@@ -19,4 +19,3 @@ const About = () => {
         </div>
     )
 }
-export default About;

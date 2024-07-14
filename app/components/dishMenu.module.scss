@@ -1,0 +1,51 @@
+h2 {
+    font-size: 24px;
+}
+
+.dish {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    cursor: pointer;
+
+    p {
+        font-size: 18px;
+
+        span {
+            margin-left: 1em;
+        }
+    }
+
+    .description {
+        display: none;
+
+    }
+
+}
+
+.dish:hover p {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.dish:hover .description {
+
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 5em;
+
+    .img_dish {
+        width: 250px;
+        height: 250px;
+        border-radius: 5px;
+        
+        box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    }
+
+    .description_text  {
+        //font-style: oblique;
+        font-weight: 400;
+        width: 20em;
+    }
+}
