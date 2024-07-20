@@ -1,6 +1,6 @@
 
 import Image from 'next/image'
-import styles from './photosGallery.module.scss'
+import styles from './photosGallery.scss'
 import Logo from "../../public/img/caldeirada.jpg";
 
 const PhotosGallery = () => {
