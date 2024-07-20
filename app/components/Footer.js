@@ -1,4 +1,4 @@
-import styles from './footer.module.scss'
+import styles from './footer.scss'
 import Collapse from './Collapse'
 
 export default function Footer() {

@@ -1,6 +1,6 @@
 import Image from "next/image"
 import AboutImg from '../../public/img/logo.jpg'
-import styles from './about.module.scss'
+import styles from './about.scss'
 
 export default function About () {
     return (

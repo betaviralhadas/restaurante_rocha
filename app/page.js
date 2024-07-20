@@ -1,4 +1,4 @@
-import styles from "./page.module.scss";
+import styles from "./page.scss";
 import Layout from './layout'
 import Link from "next/link"
 import Image from "next/image"

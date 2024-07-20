@@ -1,7 +1,7 @@
 "use client"; 
 
 import React, { useState } from 'react';
-import styles from './collapse.module.scss'
+import styles from './collapse.scss'
 
 export default function Collapse({ title, description }) {
     const [isOpen, setIsOpen] = useState(false);

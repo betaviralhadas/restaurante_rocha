@@ -2,7 +2,7 @@
 
 import data from '../../public/Slider.json'
 import { useState, useEffect, useRef } from 'react';
-import styles from './homeSlider.module.scss'
+import styles from './homeSlider.scss'
 
 const HomeSlider = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
