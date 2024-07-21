@@ -1,14 +1,24 @@
+.about_section {
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+
 .about {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    margin: 40px 0 40px 373px;
+    //margin: 40px 0 40px 373px;
     background-color: cornsilk;
     width: 680px;
     height: 400px;
     border-radius: 10px;
-    padding: 10px;
+    //padding: 10px;
+
+    @media screen and (max-width:767px) {
+        width: 375px;
+        flex-direction: column;
+    }
 
     .about_image {
         color: #502608;
@@ -29,4 +39,5 @@
             text-align: justify;
         }
     }
+}
 }

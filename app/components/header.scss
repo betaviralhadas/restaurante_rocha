@@ -3,16 +3,19 @@
     flex-direction: row;
     justify-content: space-between;
     background-image: url("../../public/img/cortica.png");
-    border-radius: 10px;
+    // border-radius: 10px;
     height: 106px;
-    /* margin: -8px; */
     align-items: center;
     padding: 10px;
     position: fixed;
     z-index: 1000;
-    width: 91em;
+    width: 99%;
     //margin-top: -128px;
     top: 0;
+
+    @media screen and (max-width:767px) {
+        
+    }
 
     .logo {
         width: 100px;
@@ -30,15 +33,16 @@
 
         .navigation_header {
             display: flex;
-            gap: 10px;
+            gap: 2px;
             list-style: none;
             margin-left: -25px;
-            padding-right: 10px;
+            margin-right: 11px;
+            // padding-right: 10px;
             justify-content: center;
-    align-items: center;
+            align-items: center;
 
             li {
-                width: 50px;
+                width: 65px;
 
                 a {
                     text-decoration: none;

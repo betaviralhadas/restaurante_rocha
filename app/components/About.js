@@ -4,7 +4,7 @@ import styles from './about.scss'
 
 export default function About () {
     return (
-        <div className={styles.about}>
+        <div className={`${styles.about} about_section`}>
             <section className="about">
                 <Image
                     className="about_image"
