@@ -3,7 +3,7 @@
         "id": 1,
         "dish": "Caldeirada no Tacho",
         "description": "CUISINES Seafood, Mediterranean, European, Portuguese. SPECIAL DIETS Gluten Free Options. MEALS Lunch, Dinner.",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "dish": "Caldeirada à Rocha c\\ Marisco",
         "description": "CUISINES Seafood, Mediterranean, European, Portuguese. SPECIAL DIETS Gluten Free Options. MEALS Lunch, Dinner.",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "dish": "Cataplana de Tamboril c\\ Marisco",
         "description": "CUISINES Seafood, Mediterranean, European, Portuguese. SPECIAL DIETS Gluten Free Options. MEALS Lunch, Dinner.",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "dish": "Cataplana c\\ Marisco",
         "description": "CUISINES Seafood, Mediterranean, European, Portuguese. SPECIAL DIETS Gluten Free Options. MEALS Lunch, Dinner.",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "dish": "Cataplana de Robalo c\\ Marisco",
         "description": "CUISINES Seafood, Mediterranean, European, Portuguese. SPECIAL DIETS Gluten Free Options. MEALS Lunch, Dinner.",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "dish": "Cataplana de Bacalhau c\\ Marisco",
         "description": "CUISINES Seafood, Mediterranean, European, Portuguese. SPECIAL DIETS Gluten Free Options. MEALS Lunch, Dinner.",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "dish": "Arroz de Tamboril",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "1PAX | 2PAX",
         "category": "Especialidades"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "dish": "Arroz de Tamboril c\\ Marisco",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "dish": "Arroz de Marisco",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "1PAX | 2PAX",
         "category": "Especialidades"
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "dish": "Arroz de Lavagante",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "2PAX",
         "category": "Especialidades"
     },
@@ -83,7 +83,7 @@
         "id": 11,
         "dish": "Carne de Porco à Alentejana",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/carneAlentejana.webp",
         "serving": "",
         "category": "Carnes"
     },
@@ -91,7 +91,7 @@
         "id": 12,
         "dish": "Lombinhos de Porco Grelhados",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Carnes"
     },
@@ -99,7 +99,7 @@
         "id": 13,
         "dish": "Espetadas Mistas na Brasa",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Carnes"
     },
@@ -107,7 +107,7 @@
         "id": 14,
         "dish": "Bife de Novilho",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Carnes"
     },
@@ -115,7 +115,7 @@
         "id": 15,
         "dish": "Bife da Vazia",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Carnes"
     },
@@ -123,7 +123,7 @@
         "id": 16,
         "dish": "Costeleta de Novilho",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Carnes"
     },
@@ -131,7 +131,7 @@
         "id": 17,
         "dish": "Espetada de Lulas",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -139,7 +139,7 @@
         "id": 18,
         "dish": "Cherne",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -147,7 +147,7 @@
         "id": 19,
         "dish": "Garoupa",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/garoupa.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -155,7 +155,7 @@
         "id": 20,
         "dish": "Robalo da Costa",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -163,7 +163,7 @@
         "id": 21,
         "dish": "Dourada da Costa",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/dourada.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -171,7 +171,7 @@
         "id": 22,
         "dish": "Lulas da Costa",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -179,7 +179,7 @@
         "id": 23,
         "dish": "Mero",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -187,7 +187,7 @@
         "id": 24,
         "dish": "Cantaril",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -195,7 +195,7 @@
         "id": 25,
         "dish": "Sargo",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -203,7 +203,7 @@
         "id": 26,
         "dish": "Cabeça de Peixe (Garoupa e Mero)",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -211,7 +211,7 @@
         "id": 27,
         "dish": "Lagostins Cozidos",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/lagostins.webp",
         "serving": "",
         "category": "Peixes"
     },
@@ -219,7 +219,7 @@
         "id": 28,
         "dish": "Lagosta p/cozer ou grelhar",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Mariscos"
     },
@@ -227,7 +227,7 @@
         "id": 29,
         "dish": "Camarão Tigre p/grelhar",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Mariscos"
     },
@@ -235,7 +235,7 @@
         "id": 30,
         "dish": "Gambas Cozidas",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Mariscos"
     },
@@ -243,7 +243,7 @@
         "id": 31,
         "dish": "Gambas Fritas",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Mariscos"
     },
@@ -251,7 +251,7 @@
         "id": 32,
         "dish": "Espetadas de Tófu à Rocha",
         "description": "",
-        "image": "/img/peixe.jpg",
+        "image": "/img/peixe.webp",
         "serving": "",
         "category": "Vegan"
     }

@@ -1,5 +1,5 @@
 import Image from "next/image"
-import AboutImg from '../../public/img/logo.jpg'
+import AboutImg from '../../public/img/logo.webp'
 import styles from './about.scss'
 
 export default function About () {

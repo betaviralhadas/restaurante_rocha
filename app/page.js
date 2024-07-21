@@ -1,13 +1,13 @@
-import styles from "./page.scss"
-import Layout from './layout'
 import Link from "next/link"
 import Image from "next/image"
+import styles from "./page.scss"
+import Layout from './layout'
 import About from "./components/About"
 import Header from "./components/Header"
 import Slider from "./components/HomeSlider"
 import Footer from "./components/Footer"
-import Menu from "../public/img/logo2.png"
-import Gallery from "../public/img/logo2.png"
+import Menu from "../public/img/ementa.webp"
+import Gallery from "../public/img/logo.webp"
 
 export default function Home() {
   return (

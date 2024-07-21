@@ -12,7 +12,7 @@ const HomeSlider = () => {
         const startInterval = () => {
             intervalRef.current = setInterval(() => {
                 setCurrentIndex((prevIndex) => (prevIndex + 1) % data.length);
-            }, 5000); // 5000ms = 5 segundos
+            }, 3000); // 3000ms = 3 segundos
         };
 
         const stopInterval = () => {

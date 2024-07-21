@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "image": "/img/restaurante2.jpg",
+        "image": "/img/restaurante2.webp",
         "alt": "restaurante"
     },
     {
         "id": 2,
-        "image": "/img/vinhos.jpg",
+        "image": "/img/vinhos.webp",
         "alt": "vinhos"
     },
     {
         "id": 3,
-        "image": "/img/caldeirada.jpg",
+        "image": "/img/caldeirada.webp",
         "alt": "caldeirada"
     },
     {
         "id": 4,
-        "image": "/img/cataplana.jpg",
+        "image": "/img/cataplana.webp",
         "alt": "cataplana"
     },
     {
         "id": 5,
-        "image": "/img/sardinhas.jpg",
+        "image": "/img/sardinhas.webp",
         "alt": "sardinhas"
     },
     {
         "id": 6,
-        "image": "/img/peixeFresco.jpg",
+        "image": "/img/peixeFresco.webp",
         "alt": "peixe"
     },
     {
         "id": 7,
-        "image": "img/peixe.jpg",
+        "image": "img/peixe.webp",
         "alt": "peixe"
     }
 ]
