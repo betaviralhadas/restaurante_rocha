@@ -11,27 +11,27 @@
     },
     {
         "id": 3,
-        "image": "/img/caldeirada.webp",
-        "alt": "caldeirada"
+        "image": "/img/carne.webp",
+        "alt": "carne"
     },
     {
         "id": 4,
-        "image": "/img/cataplana.webp",
+        "image": "/img/cataplanaMarisco.webp",
         "alt": "cataplana"
     },
     {
         "id": 5,
-        "image": "/img/sardinhas.webp",
-        "alt": "sardinhas"
+        "image": "/img/lulaCosta.webp",
+        "alt": "lulas"
     },
     {
         "id": 6,
-        "image": "/img/peixeFresco.webp",
-        "alt": "peixe"
+        "image": "/img/marisco.webp",
+        "alt": "marisco"
     },
     {
         "id": 7,
-        "image": "img/peixe.webp",
+        "image": "img/peixeFresco3slider.webp",
         "alt": "peixe"
     }
 ]

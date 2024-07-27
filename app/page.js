@@ -6,8 +6,8 @@ import About from "./components/About"
 import Header from "./components/Header"
 import Slider from "./components/HomeSlider"
 import Footer from "./components/Footer"
-import Menu from "../public/img/ementa.webp"
-import Gallery from "../public/img/logo.webp"
+import Menu from "../public/img/ementa1.webp"
+import Gallery from "../public/img/restaurante2.webp"
 
 export default function Home() {
   return (

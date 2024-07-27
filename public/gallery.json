@@ -26,8 +26,8 @@
       },
       {
         "id": 6,
-        "title": "carne",
-        "url": "/img/carne.webp"
+        "title": "vistaMarina",
+        "url": "/img/vistaMarina.webp"
       },
       {
         "id": 7,
@@ -436,7 +436,12 @@
       },
       {
         "id": 88,
-        "title": "vistaMarina",
-        "url": "/img/vistaMarina.webp"
+        "title": "peixe",
+        "url": "/img/peixeFresco15.webp"
+      },
+      {
+        "id": 89,
+        "title": "equipa&cliente",
+        "url": "/img/1.webp"
       }
   ]
