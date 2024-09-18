@@ -1,5 +1,14 @@
 body {
   margin: 0;
   background-color: #f5e2c7 !important;
+  -moz-background-color:#f5e2c7;
+  -webkit-background-color: #f5e2c7;
   font-family: 'Inter', sans-serif;
+}
+
+
+
+h1 {
+  font-size: 34px;
+  font-weight: 800;
 }

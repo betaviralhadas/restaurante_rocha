@@ -39,7 +39,7 @@ export default function DishMenu() {
                                     className="img_dish"
                                     src={dish.image}
                                     alt={dish.dish}
-                                    width={500}
+                                    width={300}
                                     height={300}
                                 />
                                 <p className="description_text">{dish.description}</p>

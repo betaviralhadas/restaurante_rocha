@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.scss";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({ children }) {
@@ -14,10 +15,10 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
           async
         ></script>
-        <link rel="icon" href="/public/favicon.ico" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/public/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/public/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/public/favicon-16x16.png" />
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <title>Restaurante Rocha</title>
         <meta name="description" content="Rocha Restaurant, come and discover the best restaurant in Peniche with delicious dishes and a welcoming atmosphere, overlooking the sea where you can eat traditional dishes, fresh sea fish and seafood."/>

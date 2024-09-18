@@ -1,4 +1,4 @@
-"use client"; 
+"use client";
 
 import data from '../../public/Slider.json'
 import { useState, useEffect, useRef } from 'react';
@@ -12,7 +12,7 @@ const HomeSlider = () => {
         const startInterval = () => {
             intervalRef.current = setInterval(() => {
                 setCurrentIndex((prevIndex) => (prevIndex + 1) % data.length);
-            }, 3000); // 3000ms = 3 segundos
+            }, 3000);
         };
 
         const stopInterval = () => {

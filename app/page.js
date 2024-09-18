@@ -8,9 +8,11 @@ import Slider from "./components/HomeSlider"
 import Footer from "./components/Footer"
 import Menu from "../public/img/ementa1.webp"
 import Gallery from "../public/img/restaurante2.webp"
+import Head from "next/head"
 
 export default function Home() {
   return (
+   
     <Layout className={styles.page}>
       <Header />
       <main className="page">

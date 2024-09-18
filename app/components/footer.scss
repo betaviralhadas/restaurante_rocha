@@ -1,9 +1,8 @@
 #contact {
     display: flex;
     flex-direction: column;
-    //background-image: url("../../../public/img/cortica.png");
+    gap: 5px;
     background-image: url("../../public/img/cortica.webp");
-    border-radius: 10px;
     padding: 10px;
 
     .content_footer {
@@ -13,6 +12,8 @@
         align-items: center;
 
         .footer {
+            display: flex;
+    flex-direction: column;
             line-height: 0;
             color: #502608;
             background: #f5e2c7;
@@ -67,33 +68,40 @@
                 display: flex;
                 flex-direction: row;
                 gap: 9px;
-            
 
-            a {
-                width: 16px;
 
-                .icon {
-                    color: #502608;
+                a {
+                    width: 16px;
+
+                    .icon {
+                        color: #502608;
+                    }
+
+
                 }
-
-
             }
-        }
+
             a:hover {
-                transform:scale(1.5)
+                transform: scale(1.5)
             }
         }
 
     }
-}
 
-.copy_right {
-    display: flex;
-    flex-direction: row;
-    align-items: baseline;
-    justify-content: center;
-    gap: 5px;
-    height: 26px;
-    color: #f5e2c7;
-    font-weight: 600;
+
+    .copy_right {
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        justify-content: center;
+        gap: 5px;
+        height: 24px;
+        color: #f5e2c7;
+        font-weight: 700;
+
+        p {
+            margin-top: 1px;
+    
+        }
+    }
 }
